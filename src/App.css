@@ -1,0 +1,29 @@
+.map-container {
+  width: 100%;
+  height: calc(100vh - 50px);
+}
+.button {
+  width: 200px;
+  height: 40px;
+  background-color: blueviolet;
+  color: white;
+}
+.input {
+  width: 100px;
+  height: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.form-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+}
+.label {
+  font-size: 20;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
+}
